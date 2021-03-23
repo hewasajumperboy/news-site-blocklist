@@ -78,7 +78,6 @@ acsh.org
 act.tv
 actforamerica.org
 acting-man.com
-acting-man.com
 actionnews3.com
 activistmommy.com
 activistpost.com
@@ -92,8 +91,6 @@ adaa.org
 addictinginfo.com
 addictinginfo.org
 adelaidenow.com.au
-adelaidenow.com.au
-adflegal.org
 adflegal.org
 adfontesmedia.com
 adl.org
@@ -174,7 +171,6 @@ alternative-science.com
 alternet.org
 althealthworks.com
 alt-market.com
-alt-market.com
 altnews.in
 altnewsmedia.net
 altoday.com
@@ -240,13 +236,11 @@ americatalks.com
 amgreatness.com
 amityunderground.com
 ammoland.com
-ammoland.com
 amnesty.org
 amny.com
 amomama.com
 amplify.com
 amplifyingglass.com
-amposts.com
 amposts.com
 amren.com
 amsterdamnews.com
@@ -256,7 +250,6 @@ ancient-code.com
 ancient-origins.net
 andersoninstitute.com
 anews-24.com
-anews24.org
 anews24.org
 angrypatriotmovement.com
 angrywhitemen.org
@@ -374,7 +367,6 @@ batimes.com.ar
 battlecreekenquirer.com
 battypost.com
 baxterbulletin.com
-bb4sp.com
 bb4sp.com
 bbarta24.net
 bbc.co.uk
@@ -569,7 +561,6 @@ cataniatoday.it
 catchnews.com
 catholic.org
 cato.org
-cato.org
 cbc.ca
 cbn.com
 cbo.gov
@@ -591,7 +582,6 @@ ced.org
 cei.org
 celebtricity.com
 centerforinquiry.org
-centerforsecuritypolicy.org
 centerforsecuritypolicy.org
 cepr.net
 cernovich.com
@@ -698,7 +688,6 @@ cnn-globalnews.com
 cnnnext.com
 cnntimes.online
 cnsnews.com
-cnsnews.com
 coasttocoastam.com
 cochrane.org
 codepink.org
@@ -801,7 +790,6 @@ counterpunch.org
 courant.com
 courier-journal.com
 couriermail.com.au
-couriermail.com.au
 courrierdelouest.fr
 courrierinternational.com
 courthousenews.com
@@ -903,7 +891,6 @@ dailystormer.name
 daily-sun.com
 dailysurge.com
 dailytarheel.com
-dailytelegraph.com.au
 dailytelegraph.com.au
 dailyusaupdate.com
 dailywire.com
@@ -1035,13 +1022,11 @@ dissentmagazine.org
 diversitychronicle.wordpress.com
 diversityinc.com
 diyhours.net
-diyhours.net
 dnn.de
 doctoroz.com
 doctorswithoutborders.org
 dollarvigilante.com
 donaldtrumpnews.co
-donaldtrumppotus45.com
 donaldtrumppotus45.com
 donaukurier.de
 dont-tread-on.me
@@ -1071,7 +1056,6 @@ dw.com
 dworkinreport.com
 eagleactionreport.com
 eaglerising.com
-eaglerising.com
 eagletribune.com
 earthfirstjournal.org
 earthjustice.org
@@ -1097,7 +1081,6 @@ ecowatch.com
 edge.org
 edmontonjournal.com
 edmontonsun.com
-educateinspirechange.org
 educateinspirechange.org
 educate-yourself.org
 eff.org
@@ -1149,7 +1132,6 @@ empireherald.com
 empirenews.net
 empiresports.co
 emptywheel.net
-emptywheel.net
 en.mediamass.net
 enabon.com
 encyclopediadramatica.rs
@@ -1187,7 +1169,6 @@ euro-actu.fr
 euronews.com
 europapress.es
 europe1.fr
-eutimes.net
 eutimes.net
 eutopia.buzz
 eveningharold.com
@@ -1320,9 +1301,7 @@ fox6now.com
 fox8.com
 fox9.com
 foxbusiness.com
-foxbusiness.com
 foxla.com
-foxnews.com
 foxnews.com
 fox-news24.com
 foxnewsgo.com
@@ -1354,7 +1333,6 @@ frc.org
 freakonomics.com
 freakoutnation.com
 freddymag.com
-freebeacon.com
 freebeacon.com
 freedomadvocates.org
 freedomainradio.com
@@ -1578,7 +1556,6 @@ heraldo.es
 herald-review.com
 heraldsun.com
 heraldsun.com.au
-heraldsun.com.au
 heraldtribune.com
 heresyblog.net
 heritage.org
@@ -1739,7 +1716,6 @@ insidescience.org
 insidesources.com
 instaworldnews.com
 insuedthueringen.de
-insuedthueringen.de
 intellectualtakeout.org
 intellihub.com
 interestingdailynews.com
@@ -1861,7 +1837,6 @@ kleinezeitung.at
 klponews.com
 km8news.com
 kmov.com
-kmt11.com
 kmt11.com
 knightfoundation.org
 knightstemplarinternational.com
@@ -2289,7 +2264,6 @@ nature.org
 nautil.us
 nbc.com
 nbc.com.co
-nbc.com.co
 nbcchicago.com
 nbcdfw.com
 nbclosangeles.com
@@ -2339,7 +2313,6 @@ news.at
 news.cn
 news.co.uk
 news.com.au
-news.com.au
 news.de
 news12.com
 news14kgpn.com
@@ -2380,7 +2353,6 @@ newsdeeply.com
 newsela.com
 newser.com
 newsexaminer.net
-newsexaminer.net
 newsfeedhunter.com
 newsfeedobserver.com
 newsfrompolitics.com
@@ -2399,7 +2371,6 @@ newslo.com
 newslogue.com
 newslookup.com
 newsmagazine.com
-newsmax.com
 newsmax.com
 newsmondo.it
 news-mondo.it
@@ -2430,7 +2401,6 @@ newsweek.com
 newswire-24.com
 newswithviews.com
 newsy.com
-newyorker.com
 newyorker.com
 newzjunky.com
 newzmagazine.com
@@ -2497,7 +2467,6 @@ nydailynews.com
 nymag.com
 nymeta.co
 nypost.com
-nypost.com
 nytimes.com
 nzherald.co.nz
 nzz.ch
@@ -2510,7 +2479,6 @@ observer.com
 observeronline.news
 observer-reporter.com
 occupy.com
-occupy.com
 occupydemocrats.com
 occupyliberals.com
 occupyyourself.org
@@ -2519,7 +2487,6 @@ ocregister.com
 ocweekly.com
 odds.com.au
 offendedamerica.com
-offgridsurvival.com
 offgridsurvival.com
 off-guardian.org
 oftwominds.com
@@ -2830,7 +2797,6 @@ realclearpolitics.com
 realclearreligion.org
 realclearscience.com
 realclimate.org
-realcommercial.com.au
 realcommercial.com.au
 realconservativesunite.com
 realestate.com.au
@@ -3260,7 +3226,6 @@ tcf.org
 tdn.com
 tdnewswire.com
 tdtalliance.com
-tdtalliance.com
 teaparty.org
 teapartypatriots.org
 teapartytribune.com
@@ -3302,7 +3267,6 @@ theamericanmirror.com
 theantimedia.com
 theantimedia.org
 theatlantic.com
-theaustralian.com.au
 theaustralian.com.au
 theautomaticearth.com
 theavocadonews.com
@@ -3532,13 +3496,11 @@ thesternfacts.com
 thestranger.com
 thestrategybridge.org
 thesun.co.uk
-thesun.co.uk
 thesundaytimes.co.uk
 thesunmagazine.org
 thetab.com
 thetandd.com
 thetelegraphandargus.co.uk
-thetimes.co.uk
 thetimes.co.uk
 thetimesherald.com
 thetimesoftheworld.com
@@ -3641,7 +3603,6 @@ triggerreset.net
 trinitymirror-news.co.uk
 trofire.com
 trtworld.com
-trueactivist.com
 trueactivist.com
 trueamericans.me
 truebluescoop.com
@@ -3769,7 +3730,6 @@ usatodaypolitics.com
 usatwentyfour.com
 usaviralnewstoday.com
 usawatchdog.com
-usawatchdog.com
 usaworldbox.com
 uschronicle.com
 usconservativetoday.com
@@ -3861,7 +3821,6 @@ wakingtimes.com
 wakingupwisconsin.com
 walkwithher.com
 wallbuilders.com
-wallstreetonparade.com
 wallstreetonparade.com
 warontherocks.com
 washingtonbabylon.com
@@ -4010,7 +3969,6 @@ www.rt.com
 wxyz.com
 wzonline.de
 x22report.com
-x22report.com
 xbn-news.com
 yaf.org
 yahoo.com
@@ -4023,7 +3981,6 @@ yesmagazine.org
 yiannopoulos.net
 ynetnews.com
 yorkdispatch.com
-youngcons.com
 youngcons.com
 yourblackworld.net
 yourfunpage.com
