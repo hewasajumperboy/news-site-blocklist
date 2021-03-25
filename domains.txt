@@ -1824,6 +1824,7 @@ kansascity.com
 kansaspolicy.org
 kata33.com
 katehon.com
+katu.com
 kayosports.com.au
 kcna.kp
 keepandbear.com
@@ -1831,6 +1832,7 @@ kentonline.co.uk
 kentucky.com
 kff.org
 kfor.com
+kgw.com
 kidspot.com.au
 kieler-nachrichten.de
 kleinezeitung.at
@@ -1848,17 +1850,20 @@ knoxnews.com
 knoxreport.com
 knp7.com
 koco.com
+koin.com
 komonews.com
 konkonsagh.biz
 koreaherald.com
 koreatimes.co.kr
 kotaku.com
+kptv.com
 krbcnews.com
 kreiszeitung.de
 kreiszeitung-wochenblatt.de
 krone.at
 kspm33.com
 ksta.de
+ktvz.com
 kuow.org
 kupr7.com
 kurdistan24.net
@@ -3878,6 +3883,7 @@ westmonster.com
 westword.com
 wetheproudpatriots.com
 wftj8news.com
+wgme.com
 wgntv.com
 whale.to
 whatdoesitmean.com
@@ -3965,6 +3971,8 @@ wtoe5news.com
 wtop.com
 wundergroundmusic.com
 wvgazettemail.com
+www.opb.org
+www.oregonlive.com
 www.rt.com
 wxyz.com
 wzonline.de
