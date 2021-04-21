@@ -703,7 +703,6 @@ ccma.cat
 ccn.com
 cctv-america.com
 cdapress.com
-cdc.gov
 cdn.nraila.org
 cdt.org
 ced.org
@@ -5290,7 +5289,6 @@ www.cc.org
 www.ccma.cat
 www.ccn.com
 www.cctv-america.com
-www.cdc.gov
 www.cdt.org
 www.ced.org
 www.cei.org
